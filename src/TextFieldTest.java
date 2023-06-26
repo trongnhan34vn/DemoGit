@@ -10,7 +10,7 @@ class TextFieldtest extends Frame
     }
     public static void main(String args[])
     {
-        ''
+//        test
         TextFieldtest f=new TextFieldtest("TextField");
         f.setSize(300,200);
         f.show();
